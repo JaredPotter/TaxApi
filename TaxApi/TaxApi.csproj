@@ -75,6 +75,58 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="TaxTableFiles\alabama.json" />
+    <Content Include="TaxTableFiles\alaska.json" />
+    <Content Include="TaxTableFiles\arizona.json" />
+    <Content Include="TaxTableFiles\arkansas.json" />
+    <Content Include="TaxTableFiles\california.json" />
+    <Content Include="TaxTableFiles\colorado.json" />
+    <Content Include="TaxTableFiles\connecticut.json" />
+    <Content Include="TaxTableFiles\delaware.json" />
+    <Content Include="TaxTableFiles\district_of_columbia.json" />
+    <Content Include="TaxTableFiles\federal.json" />
+    <Content Include="TaxTableFiles\florida.json" />
+    <Content Include="TaxTableFiles\georgia.json" />
+    <Content Include="TaxTableFiles\hawaii.json" />
+    <Content Include="TaxTableFiles\idaho.json" />
+    <Content Include="TaxTableFiles\illinois.json" />
+    <Content Include="TaxTableFiles\indiana.json" />
+    <Content Include="TaxTableFiles\iowa.json" />
+    <Content Include="TaxTableFiles\kansas.json" />
+    <Content Include="TaxTableFiles\kentucky.json" />
+    <Content Include="TaxTableFiles\louisiana.json" />
+    <Content Include="TaxTableFiles\maine.json" />
+    <Content Include="TaxTableFiles\maryland.json" />
+    <Content Include="TaxTableFiles\massachusetts.json" />
+    <Content Include="TaxTableFiles\michigan.json" />
+    <Content Include="TaxTableFiles\minnesota.json" />
+    <Content Include="TaxTableFiles\mississippi.json" />
+    <Content Include="TaxTableFiles\missouri.json" />
+    <Content Include="TaxTableFiles\montana.json" />
+    <Content Include="TaxTableFiles\nebraska.json" />
+    <Content Include="TaxTableFiles\nevada.json" />
+    <Content Include="TaxTableFiles\new_hampshire.json" />
+    <Content Include="TaxTableFiles\new_jersey.json" />
+    <Content Include="TaxTableFiles\new_mexico.json" />
+    <Content Include="TaxTableFiles\new_york.json" />
+    <Content Include="TaxTableFiles\north_carolina.json" />
+    <Content Include="TaxTableFiles\north_dakota.json" />
+    <Content Include="TaxTableFiles\ohio.json" />
+    <Content Include="TaxTableFiles\oklahoma.json" />
+    <Content Include="TaxTableFiles\oregon.json" />
+    <Content Include="TaxTableFiles\pennsylvania.json" />
+    <Content Include="TaxTableFiles\rhode_island.json" />
+    <Content Include="TaxTableFiles\south_carolina.json" />
+    <Content Include="TaxTableFiles\south_dakota.json" />
+    <Content Include="TaxTableFiles\tennessee.json" />
+    <Content Include="TaxTableFiles\texas.json" />
+    <Content Include="TaxTableFiles\utah.json" />
+    <Content Include="TaxTableFiles\vermont.json" />
+    <Content Include="TaxTableFiles\virginia.json" />
+    <Content Include="TaxTableFiles\washington.json" />
+    <Content Include="TaxTableFiles\west_virginia.json" />
+    <Content Include="TaxTableFiles\wisconsin.json" />
+    <Content Include="TaxTableFiles\wyoming.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -96,6 +148,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Models\TaxTables\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
